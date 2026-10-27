@@ -1,0 +1,13 @@
+{
+  "emerging_technology": "Large Language Models / Generative AI",
+  "intended_application": "AI-assisted marketing content generation, campaign ideation, copy drafting, and rapid generation of campaign variants.",
+  "organization": "A large consumer retail company.",
+  "industry_sector": "Consumer retail.",
+  "business_need": "Increase marketing-content speed, experimentation, personalization, and volume.",
+  "users_stakeholders": "Marketing teams, brand managers, communications staff, legal/compliance reviewers, customers, and external agencies.",
+  "adoption_posture": "Aggressive / leading-edge.",
+  "capabilities_constraints": "Strong digital infrastructure, marketing data and assets, experimentation capability, human publication review, brand rules, and legal/IP requirements.",
+  "risk_consequence_context": "Errors may create factual, copyright, brand, legal, or reputational consequences, but outputs are comparatively reversible through review, editing, withdrawal, or replacement.",
+  "management_question": "How far have LLMs and AI-assisted marketing-content applications diffused, what is accelerating or inhibiting their spread, and what does that stage imply for management timing over the next 6\u201312 months?",
+  "time_horizon": "Next 6\u201312 months."
+}
