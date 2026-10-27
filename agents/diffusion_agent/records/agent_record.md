@@ -3,7 +3,7 @@
 - Student: Tony Ruiz.
 - Record date: 2026-10-27.
 - Specialty: Technology and Application Diffusion.
-- Lab 5 GitHub repository: https://github.com/aruizaldrete-ai/Tony-Assignment-5-Diffusion-Agen
+- Lab 5 GitHub repository: https://github.com/aruizaldrete-ai/Tony-Assignment-5-Diffusion-Agent
 - Branch: lab5-diffusion-agent (verified locally).
 - Final Lab 5 candidate commit: 37814a2 (Complete Lab 5 Diffusion Agent v0.2 with preserved tests and record). This subsequent provenance-only update records that candidate.
 
