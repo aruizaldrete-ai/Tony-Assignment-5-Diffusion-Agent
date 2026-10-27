@@ -3,7 +3,7 @@
 - Student: Tony Ruiz.
 - Record date: 2026-10-27.
 - Specialty: Technology and Application Diffusion.
-- Lab 5 GitHub repository: Pending; existing remotes refer to earlier assignments.
+- Lab 5 GitHub repository: https://github.com/aruizaldrete-ai/Tony-Assignment-5-Diffusion-Agen
 - Branch: lab5-diffusion-agent (verified locally).
 - Final Lab 5 candidate commit: 37814a2 (Complete Lab 5 Diffusion Agent v0.2 with preserved tests and record). This subsequent provenance-only update records that candidate.
 
@@ -93,7 +93,7 @@ ChatGPT and Codex materially helped design the specialist instructions, cases, s
 
 ## Validation and remaining submission work
 - All three required saved responses passed `tools/validate_response.py` on 2026-10-27; `tools/check_frozen_core.py` reported FROZEN CORE INTACT.
-- Candidate committed locally at 37814a2. Confirm the Lab 5 repository destination, push the branch with this provenance update, and verify the remote branch.
-- Prepare the final agent package and readable Agent Record for the actual Brightspace upload requirements; submit through Brightspace. No final submission is claimed.
+- Candidate commit: 37814a2. Repository destination confirmed by the student; publication is tracked by the GitHub branch lab5-diffusion-agent.
+- The submission package and readable Agent Record accompany this candidate. Upload them according to Brightspace requirements. No Brightspace submission is claimed.
 - README reconciled to v0.2 and the completed required testing cycle; optional tests and evidence limitations remain explicit.
 - Carry forward the documented evidence limitation; a further revision or optional contrast run is not represented as completed or required by this record.
